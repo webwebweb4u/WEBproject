@@ -1,2 +1,2 @@
 
-g  path:hover {stroke:blue; stroke-width:2px;}
+g > path:hover {stroke:blue; stroke-width:2px;}
